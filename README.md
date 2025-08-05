@@ -1,4 +1,7 @@
-# Olá, eu sou o David William! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c147e9">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=E0B0FF&width=435&lines=Ol%C3%A1!+Me+chamo+David+William"/>
+</a>
 
 ## Bem-vindo(a) ao meu cantinho no GitHub!
 
@@ -18,8 +21,9 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
+<img src="https://cdn.discordapp.com/attachments/1007682144899960845/1397002226198773811/output-onlinegiftools_2.gif?ex=68909df5&is=688f4c75&hm=ca4c0fb4b9163d4e7af601cc508e9d21160e904608741c6deeac6363a47e7f5f&" 
+     width="300px" align="right" style="float: right;" />
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -33,6 +37,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuLeonardo&theme=tokyonight&hide_border=false&count_private=true&layout=compact"/>
 <p align="left">
   <i>Explorando o universo de Dados:</i>
   <br><br>
@@ -47,7 +52,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/david-matizu/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
   <a href="mailto:davidwillamagimario@gmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c147e9&section=footer">
