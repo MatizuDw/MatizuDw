@@ -39,29 +39,12 @@
 
 <br>
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/SEU-USERNAME-AQUI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
-### 🚀 Principais Projetos
-
-[![Nome do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME-AQUI&repo=NOME-DO-SEU-REPO-1&theme=tokyonight)](https://github.com/SEU-USERNAME-AQUI/NOME-DO-SEU-REPO-1)
-[![Nome do Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME-AQUI&repo=NOME-DO-SEU-REPO-2&theme=tokyonight)](https://github.com/SEU-USERNAME-AQUI/NOME-DO-SEU-REPO-2)
-
-<br>
-
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[SEU-PERFIL-DO-LINKEDIN]/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/david-matizu/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="mailto:[SEU-EMAIL@provedor.com]" alt="Email">
+  <a href="mailto:davidwillamagimario@gmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
